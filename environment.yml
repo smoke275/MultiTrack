@@ -1,0 +1,10 @@
+name: multitrack-env
+dependencies:
+  - python=3.13  
+  - pip
+  - pip:
+      - pygame
+      - numpy
+      - matplotlib
+      - scipy
+
